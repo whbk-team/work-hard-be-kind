@@ -1,0 +1,8 @@
+Your New 3-Step Rhythm
+Moving forward, you don't need to do the "remote add" or "init" ever again for this project. When you write a new script or update an old one, just do this:
+
+git add .
+
+git commit -m "added a new script for client x"
+
+git push
