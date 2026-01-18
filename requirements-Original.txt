@@ -1,0 +1,29 @@
+# --- CORE & JUPYTER ---
+ipykernel               # Required to run Jupyter Notebooks in VS Code
+python-dotenv           # Manages environment variables (API keys, etc.)
+
+# --- DATA ANALYSIS & MATH ---
+numpy                   # High-performance computing
+pandas                  # Data manipulation and DataFrames
+matplotlib              # Basic plotting and graphing
+seaborn                 # Advanced statistical visualizations
+scipy                   # Scientific and technical computing
+
+# --- EXCEL & FILE HANDLING ---
+openpyxl                # Reading/Writing Excel (.xlsx) files
+python-calamine         # Ultra-fast Excel reader (good for large files)
+xlrd                    # alternative tool for working with old xls files (Excel 97-2003)
+Template                # supports the substitution of variables into template code like HTML
+python-Levenshtein      #
+
+# --- WEB & APIs ---
+requests                # The standard for making HTTP/API calls
+beautifulsoup4          # Web scraping and HTML parsing
+
+# --- UTILITIES ---
+tqdm                    # Progress bars for long-running loops
+colorama                # Color-coded terminal output
+pymupdf                 # Supports PDF file manipulations
+thefuzz[speedup]        # advance comparison between two text fields, yields a matching score
+logging                 # Instead of documenting with print(), use logging to save status messages to a file
+
